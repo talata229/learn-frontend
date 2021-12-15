@@ -1,0 +1,9 @@
+.boxed {
+    padding: 20px;
+    background-color: #ffa400;
+    /* width: 100%; Có thanh scroll ngang */
+    /* width: auto; Không có thanh scroll ngang */
+    width: auto;
+    /* overflow: hidden; */
+    margin-left: 250px;
+}
